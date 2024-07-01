@@ -4,6 +4,9 @@
 Please note that this is intended to be a code and data repository for a specific set of systems (i.e. protein kinases)
 For a view of the full pipeline excluding multiple walker learning and static bias, please use the repository for [AF2RAVE](https://github.com/tiwarylab/alphafold2rave/)
 
+## A simple colab notebook for tAF2 can be found here -> [Link](https://colab.research.google.com/github/tiwarylab/AF2RAVE_Glide-kinase/blob/main/tAlphaFold2.ipynb)
+The above mentioned notebook is based on [Colabfold](https://github.com/sokrypton/ColabFold)
+
 ## Motivation
 [https://elifesciences.org/reviewed-preprints/99702]
 Here, we demonstrate an AlphaFold2 based framework combined with all-atom enhanced sampling molecular dynamics and induced fit docking, named AF2RAVE-Glide, 
